@@ -31,7 +31,7 @@
         <input type="text" id="correo" name="correo" required>
     </div>
     
- <button type="submit">salvar Empleado</button>
+ <button type="submit">salvar Proveedor</button>
 
 </form>
     
